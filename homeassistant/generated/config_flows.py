@@ -175,6 +175,7 @@ FLOWS = {
         "flume",
         "flux_led",
         "folder_watcher",
+        "football",
         "forecast_solar",
         "forked_daapd",
         "foscam",
